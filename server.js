@@ -43,8 +43,8 @@ var uploadFile = function(ticket){
 
 var loginPromise = new Promise(function(resolve, reject){
   var body = {
-      'UserName': 'RS-remecz',
-      'Password': 'A3S4MpjSzx9H'
+      'UserName': 'xxxxxx',
+      'Password': 'xxxxxx'
   };
   var uri = 'https://api.adform.com/Services/SecurityService.svc/JSON/Login';
 
