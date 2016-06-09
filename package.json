@@ -1,0 +1,11 @@
+{
+  "name": "adform",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "connect": "^3.4.1",
+    "elementtree": "^0.1.6",
+    "es6-promise": "^3.2.1",
+    "request": "^2.72.0"
+  }
+}
